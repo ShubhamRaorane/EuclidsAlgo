@@ -1,1 +1,1 @@
-print('This is Euclids algo.')
+print('this introduction is outdated.')
