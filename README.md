@@ -2,4 +2,4 @@
 EuclidsAlgorithm
 
 Euclids algorithm to calculate the gcd of two numbers
-Creating a repo. for literally anything to tinker aroung with github.
+Lets see how far I can go!
